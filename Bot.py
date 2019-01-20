@@ -15,7 +15,7 @@ tweet = input('What would you like to tweet? ')
 if ok == True: #making sure ok is true	
 
 	t.update_status(tweet) #Posts the tweet, using t.	
-	print(f'Completed! Posted "{tweet}")
+	print(f'Completed! Posted "{tweet}"')
 
 
   
