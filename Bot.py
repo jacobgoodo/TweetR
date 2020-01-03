@@ -1,5 +1,5 @@
 #
-# Copyright (2019) Jacob
+# Copyright (2019) Jacob https://github.com/jacobgoodo/
 # If you redistribute this code, please leave this notice at the top :3
 #
 
