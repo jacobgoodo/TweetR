@@ -1,5 +1,5 @@
 #
-# Copyright (2019) Jacob Goodridge (Twitter: @jacob_1F308, Elsewhere: @jacobgoodo)
+# Copyright (2019) Jacob
 # If you redistribute this code, please leave this notice at the top :3
 #
 
