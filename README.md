@@ -1,4 +1,4 @@
-#i dont even remember how to code in python but this exists
+# i dont even remember how to code in python but this exists
 
 just `pip install tweepy` and you'll be good. you might need `sudo`
 
